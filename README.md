@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @PeterBaptista
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-PeterBaptista/PeterBaptista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hey, I'm Pedro
+- I'm passionate about programming💻❤
+- I'm fond of triggering the best of my creativity!😎
+- Currently focusing on Pyhton🐍
+- I believe everyone can teach me something new😬
+- 
+- if you're trying to find someone persistent = True:
+-    print('Send me a message')😆
+-    
