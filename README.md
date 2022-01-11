@@ -1,7 +1,7 @@
 - Hey, I'm Pedro
 - I'm passionate about programming💻❤
 - I'm fond of triggering the best of my creativity!😎
-- Currently focusing on Pyhton🐍
+- Currently focusing on HTML, CSS and Javascrpit
 - I believe everyone can teach me something new😬
 - 
 - if you're trying to find someone persistent = True:
