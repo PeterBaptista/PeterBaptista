@@ -4,6 +4,6 @@
 - Currently focusing on HTML, CSS and Javascrpit
 - I believe everyone can teach me something new😬
 - 
-- if you're trying to find someone persistent = True:
+- if you're trying to find someone persistent == True:
 -    print('Send me a message')😆
 -    
