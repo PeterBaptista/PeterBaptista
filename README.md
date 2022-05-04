@@ -1,9 +1,10 @@
 - Hey, I'm Pedro
 - I'm passionate about programming💻❤
-- I'm fond of triggering the best of my creativity!😎
-- Currently focusing on HTML, CSS and Javascrpit
-- I believe everyone can teach me something new😬
 - 
-- if you're trying to find someone persistent == True:
--    print('Send me a message')😆
--    
+- I'm using Python a lot since the beginning of the year (2022)
+- 
+- I'm fond of triggering the best of my creativity!😎
+- 
+- Currently focusing on college stuff (Computer Science)
+- 
+- I'm trying to evolve a little everyday, so everyone can teach me something new!
