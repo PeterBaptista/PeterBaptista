@@ -1,10 +1,3 @@
-- Hey, I'm Pedro
-- I'm passionate about programming💻❤
-- 
-- I'm using Python a lot since the beginning of the year (2022)
-- 
-- I'm fond of triggering the best of my creativity!😎
-- 
-- Currently focusing on college stuff (Computer Science)
-- 
-- I'm trying to evolve a little everyday, so everyone can teach me something new!
+Hey there! if you are thinking about hiring me to a job or you're just curious about me, that's the right place!
+
+Here you can see my projects and how I evolved passing the years, months or maybe days or hours... feel free to stay here as long as you want to!
