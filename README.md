@@ -1,3 +1,2 @@
-Hey there! if you are thinking about hiring me to a job or you're just curious about me, that's the right place!
-
-Here you can see my projects and how I evolved passing the years, months, days or maybe hours... feel free to stay here as long as you want to!
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
