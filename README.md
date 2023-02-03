@@ -26,3 +26,7 @@
   <a href = "mailto:pedrolk2012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
+<br> <br>
+
+  <img src='https://img.10fastfingers.com/img/badge/typing-test_4_BJ.png' style='width: 200px'>
+
