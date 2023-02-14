@@ -28,5 +28,5 @@
 </div>
 <br> <br>
 
-  <img src='https://img.10fastfingers.com/img/badge/typing-test_4_BJ.png' style='width: 200px'>
+  <img src='https://img.10fastfingers.com/img/badge/typing-test_4_BS.png' style='width: 200px'>
 
