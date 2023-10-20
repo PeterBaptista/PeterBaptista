@@ -5,6 +5,8 @@
 [![PeterBaptista's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PeterBaptista&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![PeterBaptista's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PeterBaptista&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+ <img height="180em" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterBaptista&layout=compact&langs_count=7&theme=dark"/>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
