@@ -1,5 +1,5 @@
 <h1> Hey, there! I'm Pedro Baptista<br> and it's a pleasure to have you here. 😉</h1>
-<p>I am a junior developer eager to learn and grow in the field. My GitHub profile showcases my personal projects and contributions to open-source. Always open to collaborate and learn from more experienced developers. 👍</p> 
+<p>I am a Front-end Developer eager to learn and grow in the field. My GitHub profile showcases my personal projects and contributions to open-source. Always open to collaborate and learn from more experienced developers. 👍</p> 
 
 
 [![PeterBaptista's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PeterBaptista&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
