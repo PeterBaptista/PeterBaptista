@@ -32,5 +32,6 @@
 </div>
 <br> <br>
 
+
   <img src='https://img.10fastfingers.com/img/badge/typing-test_4_BS.png' style='width: 200px'>
 
